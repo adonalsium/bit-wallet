@@ -14,6 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        print("cant wait to push this code to GitHub!")
     }
 
     override var representedObject: Any? {
